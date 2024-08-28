@@ -1,4 +1,4 @@
 #!/bin/bash
 pwd
 ls
-echo $0
+echo The name of this file is: $0
