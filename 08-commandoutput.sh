@@ -1,8 +1,4 @@
 #!/bin/bash
 pwd
 ls
-$0
-$*
-$#
-$?
-$$
+echo $0
